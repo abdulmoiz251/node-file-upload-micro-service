@@ -15,3 +15,6 @@ Start the project
 `$ npm start`  
 -OR-  
 `$ node app.js` 
+  
+## How to Use
+After running the project, send a post request to `http://localhost:1337/api/upload` with your file in form-data param `file`.
